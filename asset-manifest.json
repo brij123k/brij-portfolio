@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/brij-portfolio/static/css/main.3d6f6a13.css",
+    "main.js": "/brij-portfolio/static/js/main.60a0b9ff.js",
+    "static/media/brija.jpg": "/brij-portfolio/static/media/brija.eaaebd47f77743e33052.jpg",
+    "static/media/brij.png": "/brij-portfolio/static/media/brij.f3ab22311ee78e797710.png",
+    "static/media/website.png": "/brij-portfolio/static/media/website.ac4fd6bb6257c5024797.png",
+    "static/media/portifolio.png": "/brij-portfolio/static/media/portifolio.7f33dad95fe81439436f.png",
+    "static/media/SPACEX1.PNG": "/brij-portfolio/static/media/SPACEX1.6457bd1f403cadfeea1f.PNG",
+    "index.html": "/brij-portfolio/index.html",
+    "main.3d6f6a13.css.map": "/brij-portfolio/static/css/main.3d6f6a13.css.map",
+    "main.60a0b9ff.js.map": "/brij-portfolio/static/js/main.60a0b9ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6f6a13.css",
+    "static/js/main.60a0b9ff.js"
+  ]
+}
